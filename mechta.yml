@@ -1,0 +1,63 @@
+Mechta:
+  otdel_1:
+    Olga:
+      quantity: 4
+      Position: accountant
+      pay: max
+      sex: female
+    Dmitriy:
+      quantity: 3
+      pay: max
+      sex: male
+    Ivan:
+      quantity: 2
+      pay: max
+      sex: male
+  otdel_2:
+    Roman:
+      quantity: 4
+      pay: min
+      Position: lawyer
+      age: less_30
+      sex: male
+    Maxim:
+      pay: min
+      quantity: 4
+      Position: driver
+      age: less_30
+      sex: male
+  Otdel_3:
+    Olga:
+      pay: min
+      quantity: 1
+      Position: lawyer
+      sex: female
+    Ivan:
+      pay: min
+      quantity: 1
+      Position: builder
+      sex: male
+    Nikolay:
+      pay: min
+      quantity: 1
+      Position: builder
+      sex: male
+  Otdel_4_5:
+    Julia:
+      quantity: 5
+      pay: mid
+      Position: clerk
+      age: more_30
+      sex: female
+    other:
+      pay: mid
+      age: more_55
+      sex: male
+  Otdel_6:
+    Igor_Viktorovich:
+      pay: min
+      quantity: 1
+      Position: director_of_security
+      age: more_50
+
+
